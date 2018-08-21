@@ -1,5 +1,5 @@
 /**
- * @brightcove/videojs-flashls-source-handler
+ * videojs-flashls-source-handler
  * @version 1.4.4
  * @copyright 2018 Brightcove
  * @license Apache-2.0
